@@ -1,0 +1,15 @@
+{
+    "name": "fengyueboqing/demo",
+    "authors": [
+        {
+            "name": "fengyueboqing",
+            "email": "904236328@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "fengyueboqing\\demo\\": "src/"
+        }
+    },
+}
