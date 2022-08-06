@@ -6,6 +6,7 @@
             "email": "904236328@qq.com"
         }
     ],
+    "license": "MIT",
     "require": {},
     "autoload": {
         "psr-4": {
